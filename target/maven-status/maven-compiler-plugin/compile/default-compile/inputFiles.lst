@@ -1,0 +1,12 @@
+/home/cristian/NetBeansProjects/carsSales/src/main/java/model/Controller.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/controller/ControllerPersistence.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/view/FindCar.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/controller/carsJpaController.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/controller/exceptions/PreexistingEntityException.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/view/RegistrationCar.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/view/ModifyCar.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/controller/exceptions/NonexistentEntityException.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/model/Cars.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/view/MainCrud.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/controller/exceptions/IllegalOrphanException.java
+/home/cristian/NetBeansProjects/carsSales/src/main/java/com/cristianvillate/carssales/CarsSales.java
